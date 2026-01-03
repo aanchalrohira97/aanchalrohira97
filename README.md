@@ -22,6 +22,20 @@ Looking ahead, I’m excited to explore Senior Software Engineer opportunities w
 
 ###
 
+<h3 align="left">Certifications</h3>
+
+<p align="left">
+• <a href="https://www.coursera.org/account/accomplishments/verify/CINQ4WB5629Z" target="_blank">AI-Powered Software and System Design</a> <br>
+• <a href="https://www.coursera.org/account/accomplishments/verify/F0YDXTR3Q3N6" target="_blank">Team Software Engineering with AI</a> <br>
+• <a href="https://www.coursera.org/account/accomplishments/verify/PISO68Y93C1A" target="_blank">Introduction to Generative AI for Software Development</a> <br>
+• <a href="https://www.coursera.org/account/accomplishments/verify/E127JOTJ6EU4" target="_blank">Generative AI for Everyone</a> <br>
+• <a href="https://drive.google.com/file/d/1lKo9ipjc-ZBbiCyuyCHN2yr4GDSuZLP2/view" target="_blank">CodePath Interview Prep: Intermediate Track</a> <br>
+• <a href="https://www.credly.com/badges/37418a96-e9ab-40b7-ad8f-8e68cf4513e4/linked_in_profile" target="_blank">Digital Developer Conference</a> <br>
+</p>
+
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aanchalrohira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fagunraithatha" height="30" width="40" /></a>
