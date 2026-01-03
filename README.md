@@ -25,6 +25,8 @@ Looking ahead, I’m excited to explore Senior Software Engineer opportunities w
 <h3 align="left">Certifications</h3>
 
 <p align="left">
+• <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/T8VJEJ0GBHM0" target="_blank">Generative AI for
+Software Development</a> <br>
 • <a href="https://www.coursera.org/account/accomplishments/verify/CINQ4WB5629Z" target="_blank">AI-Powered Software and System Design</a> <br>
 • <a href="https://www.coursera.org/account/accomplishments/verify/F0YDXTR3Q3N6" target="_blank">Team Software Engineering with AI</a> <br>
 • <a href="https://www.coursera.org/account/accomplishments/verify/PISO68Y93C1A" target="_blank">Introduction to Generative AI for Software Development</a> <br>
