@@ -6,7 +6,11 @@
 
 <br clear="both">
 
-<p align="left">Thank you for taking the time to visit my GitHub profile. I hope you find the projects and contributions insightful. <br><br>I am an experienced Full-Stack Developer with a passion for solving complex problems and crafting innovative software solutions. Proficient in frontend technologies like React, Next.js, JavaScript, TypeScript, and GraphQL, alongside strong backend expertise in Java, SQL, PL/SQL, and Spring Boot. Skilled in leveraging tools like Git, Jenkins, Docker, Kubernetes, and AWS to build scalable, efficient applications. My work includes developing AI-driven features, optimizing performance, and managing cloud deployments, while fostering team growth through initiatives like a technical book club focused on emerging technologies and best practices.</p>
+<p align="left">Thank you for taking the time to visit my GitHub profile. I hope you find the projects and contributions insightful. <br><br>I’m an experienced Full-Stack Developer with a passion for solving complex problems and building innovative, scalable software solutions. My expertise spans modern frontend technologies : React, Next.js, JavaScript, TypeScript, and GraphQL paired with strong backend skills in Java, SQL, PL/SQL, and Spring Boot. I also bring hands-on experience with Git, Jenkins, Docker, Kubernetes, and AWS, enabling me to deliver reliable, cloud-ready applications.
+
+Currently, I’m a Software Engineer at Seismic, where I design and deliver APIs, backend systems, and user-facing features. Some highlights of my work include restoring 100% email reliability, reducing integration time by 25%, improving data communication efficiency by 30%, and launching an AI-driven feature now live in production. Beyond my project work, I foster team growth by leading initiatives such as a technical book club focused on emerging technologies and best practices.
+
+Looking ahead, I’m excited to explore Senior Software Engineer opportunities where I can take on greater ownership, mentor others, and help shape AI-powered, high-impact solutions.</p>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<p align="left">✨ I am currently working at Seismic, where I focus on developing new features and maintaining the application to ensure optimal performance and user experience<br>📚 I'm currently reading Designing Data-Intensive Applications and would love to hear your thoughts if you've read it—feel free to reach out!<br>🎯 Goals: Read at least 2 technical books in a year and keep up with a newsletter to keep in touch with current industry trends<br>🎲 Fun fact: The term "bug" to describe a glitch in a computer system comes from an incident when a moth caused a malfunction in an early computer.</p>
+<p align="left">📚 I'm currently reading Designing Data-Intensive Applications and would love to hear your thoughts if you've read it—feel free to reach out!<br>🎯 Goals: Read at least 2 technical books in a year and keep up with a newsletter to keep in touch with current industry trends<br>🎲 Fun fact: The term "bug" to describe a glitch in a computer system comes from an incident when a moth caused a malfunction in an early computer.</p>
 
 ###
 
